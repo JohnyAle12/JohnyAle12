@@ -1,8 +1,8 @@
 ### Hi there 👋
 * * *
-- 👋 Hi, I’m Johny, I'm Systems and Software Engineer 🤓. I've worked with differents languages and technologies. I'm waiting to help you with ideas, solutions and code.
+- 👋 Hi, I’m Johny, I'm Software Engineer 🤓. I've worked with differents languages and technologies. I'm waiting to help you with ideas, solutions and code.
 - 🧑🏻‍💼 I’m interested in promote and adopt the best practices in technology at a business level and maintain persistence in continuous learning
-- 📚 I’m currently learning ReactJs and TypeScript.
+- 📚 I’m currently learning about some frameworks for NodeJs.
 - 📫 You can reach me at my:
   - 📥 Personal mail johnypriet001@gmail.com
   - 🔗 LinkeId profile https://www.linkedin.com/in/johny-alejandro/
